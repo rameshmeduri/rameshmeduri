@@ -1,4 +1,4 @@
-### Full Stack <font color='#146fb4'>Javascript Developer</font>
+### Full Stack `Javascript Developer`
 
 ---
 
